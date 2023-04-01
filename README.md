@@ -56,8 +56,8 @@ To use the README generator app, follow these steps:
 
 This will start the app and prompt you with a series of questions to generate your README file.
 
-[![Demo](/utils/images/readmeGenerator.mov)
-
+Click image to video Demo:
+[![Demo](utils/images/Screenshot.png)](https://drive.google.com/file/d/1b5Rc46Of7vmSRHazlWtb4-CNc58J2hEE/view?usp=share_link)
 
 1. Answer the questions prompted by the app, such as your project's title, description, installation instructions, usage examples, and licensing information.
 2. After answering all the questions, the app will generate a custom README file in markdown format, which you can use for your project.
